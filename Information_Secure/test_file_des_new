@@ -1,0 +1,5 @@
+^_^!!!!!!!!!!!!!!!!!!!!!!!!!!!@#$%^&*()_
+This directory contains the master solution to the CMSC412 project.  The kernel
+it builds contains solutions to all of the projects in a single kernel.  This
+directory is also used to automatically generate the directory with the initial 
+hello world.
