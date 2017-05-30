@@ -49,4 +49,4 @@ void select_file(GtkWidget *gtkwidget,gpointer data);
 	GtkWidget *aes_decrypt_button;
 	//GtkWidget *fchooser;      //select dialog
 
-	hello world
+	hello world.
